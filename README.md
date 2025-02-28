@@ -1,5 +1,7 @@
 Olá, mundo! 👋 Sou Marcelo Gadelha
 
+![GadelhaTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelhati&show_icons=true&theme=transparent)
+
 Sobre Mim
 
 Pós Graduado em Engenharia de Software com Java Enterprise Edition, Bacharel em Sistemas de Informação com Ênfase em Análise de Sistemas, Técnico em Hidrografia e navegação formado pela 
