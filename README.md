@@ -1,18 +1,37 @@
-## Hi there 👋
+Olá, mundo! 👋 Sou Marcelo Gadelha
 
-![Gadelha TI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelhati&show_icons=true&theme=transparent)
+Sobre Mim
 
-<!--
-**gadelhati/gadelhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pós Graduado em Engenharia de Software com Java Enterprise Edition, Bacharel em Sistemas de Informação com Ênfase em Análise de Sistemas, Técnico em Hidrografia e navegação formado pela 
+Marinha do Brasil.
 
-Here are some ideas to get you started:
+🛠️ Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+React.js
+Spring Boot
+Typescript
+
+📊 Estatísticas do GitHub
+
+🌟 Projetos em Destaque
+
+Projeto Autenticação - Sistema de login seguro utilizando Spring Security e autenticação de dois fatores.
+API RESTful - API completa com documentação Swagger e boas práticas.
+Frontend Responsivo - Interface de usuário moderna com Thymeleaf e Bootstrap.
+
+📈 Contribuições
+
+<!-- Substitua "SEUUSERNAME" pelo seu nome de usuário do GitHub -->
+
+🎓 Formação & Certificações
+
+Bacharelado em Ciência da Computação (ou sua formação)
+Certificação Java Developer
+Spring Framework Specialist
+
+📫 Como me Encontrar
+
+⭐️ De GADELHATI
+
+<!-- Não se esqueça de substituir "SEUUSERNAME" pelo seu nome de usuário real do GitHub em todos os locais marcados --
