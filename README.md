@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Gadelha TI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelhati&show_icons=true&theme=transparent)
+
 <!--
 **gadelhati/gadelhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
