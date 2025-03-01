@@ -1,7 +1,7 @@
 Olá, mundo! 👋 Sou Marcelo Gadelha
 
 ![GadelhaTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelhati&show_icons=true&theme=transparent)
-[![GadelhaTI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gadelhati)](https://github.com/gadelhati/github-readme-stats)
+![GadelhaTI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gadelhati)](https://github.com/gadelhati/)
 
 Sobre Mim
 
