@@ -8,17 +8,9 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-6.10.5-FCC624?logo=linux)
+![Apache](https://img.shields.io/badge/Apache-2.4.62-D22128?logo=apache)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.5-blue?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python)
@@ -35,6 +27,7 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 ![Vite](https://img.shields.io/badge/Vite-5.2.0-646CFF?logo=vite)
 ![React](https://img.shields.io/badge/React-19.1-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
+![Ionic](https://img.shields.io/badge/Ionic-8.2.9-3880FF?logo=ionic)
 
 ---
 
