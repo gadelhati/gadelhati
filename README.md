@@ -1,39 +1,45 @@
-Olá, mundo! 👋 Sou Marcelo Gadelha
+# 👋 Olá, eu sou o Marcelo Gadelha
 
-![GadelhaTI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadelhati&show_icons=true&theme=transparent)
+> **Desenvolvedor Full-Stack | Especialista em Java & Spring Boot | Criador de Soluções Reais**
 
-Sobre Mim
+Sou um desenvolvedor apaixonado por transformar ideias em sistemas robustos e funcionais. Minha missão é simples: **entregar software que faça diferença**.  
+Mais do que código, busco criar produtos que resolvam problemas reais, com foco em **qualidade, segurança e escalabilidade**.
 
-Pós Graduado em Engenharia de Software com Java Enterprise Edition, Bacharel em Sistemas de Informação com Ênfase em Análise de Sistemas, Técnico em Hidrografia e navegação formado pela 
-Marinha do Brasil.
+---
 
-🛠️ Tecnologias & Ferramentas
+## 🚀 O que eu faço
+- **Back-end:** Java, Spring Boot (Security, MVC, Data, JPA, JWT), PostgreSQL, MySQL, FastAPI  
+- **Front-end:** React, Typescript, Ionic, HTML5, CSS3  
+- **DevOps & Segurança:** Configuração de servidores (Apache, SSL, ModSecurity, Fail2Ban), Oracle Linux, boas práticas de hardening  
+- **Outros:** Modelagem de dados complexos, APIs seguras, SaaS, sistemas de controle e automação
 
-Java
-React.js
-Spring Boot
-Typescript
+---
 
-📊 Estatísticas do GitHub
+## 💼 Por que trabalhar comigo?
+- **Experiência sólida**: De APIs de autenticação a sistemas científicos seguindo padrões internacionais (como o S-100 da IHO).
+- **Foco no resultado**: Eu não só entrego código, eu entrego **valor para o negócio**.
+- **Boas práticas**: Arquiteturas limpas, código testável, documentação clara.
+- **Paixão por aprender**: Sempre explorando novas tecnologias e formas de melhorar os projetos.
 
-🌟 Projetos em Destaque
+---
 
-Projeto Autenticação - Sistema de login seguro utilizando Spring Security e autenticação de dois fatores.
-API RESTful - API completa com documentação Swagger e boas práticas.
-Frontend Responsivo - Interface de usuário moderna com Thymeleaf e Bootstrap.
+## 🌟 Alguns dos meus projetos
+- **Sistema para controle de comissões de navios de pesquisa científica**  
+  Modelagem e desenvolvimento seguindo padrões internacionais (S-100 da IHO).  
+- **Plataforma de questionários interativos**  
+  Com React e integração com APIs, garantindo boa UX e escalabilidade.  
+- **Infraestrutura segura para aplicações web**  
+  Configuração de servidores Oracle Linux com práticas avançadas de segurança.  
 
-📈 Contribuições
+> *Quer ver mais? Confira meus repositórios públicos e veja como eu escrevo código limpo e estruturado.*
 
-<!-- Substitua "SEUUSERNAME" pelo seu nome de usuário do GitHub -->
+---
 
-🎓 Formação & Certificações
+## 📫 Vamos conversar?
+Estou aberto para **oportunidades de desenvolvimento**, **freelancer** ou **parcerias estratégicas**.  
+**E-mail:** seuemail@dominio.com  
+**LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
 
-Bacharelado em Ciência da Computação (ou sua formação)
-Certificação Java Developer
-Spring Framework Specialist
+---
 
-📫 Como me Encontrar
-
-⭐️ De GADELHATI
-
-<!-- Não se esqueça de substituir "SEUUSERNAME" pelo seu nome de usuário real do GitHub em todos os locais marcados --
+*"Desenvolver software é mais do que programar. É criar soluções que impactam pessoas."*
