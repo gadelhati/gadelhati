@@ -19,6 +19,23 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.5-blue?logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.13-009688?logo=fastapi)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.2-000000?logo=intellijidea)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen?logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6.2.2-brightgreen?logo=spring)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-1.90.0-007ACC?logo=visualstudiocode)
+![Node.js](https://img.shields.io/badge/Node.js-22.17-339933?logo=node.js)
+![npm](https://img.shields.io/badge/npm-10.9.2-CB3837?logo=npm)
+![Vite](https://img.shields.io/badge/Vite-5.2.0-646CFF?logo=vite)
+![React](https://img.shields.io/badge/React-19.1-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
+
 ---
 
 ## 💼 Por que me contratar?
@@ -48,7 +65,6 @@ Confira alguns dos meus projetos:
 ## 📫 Vamos conversar?
 Estou aberto para **oportunidades de desenvolvimento**, **freelancer** e **parcerias estratégicas**.
 
-**E-mail:** marcelogadelha.dev@gmail.com  
 **LinkedIn:** [linkedin.com/in/marcelogadelha](https://www.linkedin.com/in/marcelogadelha/)  
 **Portfólio:** [portifolio-sigma-navy.vercel.app](https://portifolio-sigma-navy.vercel.app/)  
 
