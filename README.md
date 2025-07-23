@@ -37,7 +37,6 @@ Mais do que código, busco criar produtos que resolvam problemas reais, com foco
 
 ## 📫 Vamos conversar?
 Estou aberto para **oportunidades de desenvolvimento**, **freelancer** ou **parcerias estratégicas**.  
-**E-mail:** seuemail@dominio.com  
 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
 
 ---
