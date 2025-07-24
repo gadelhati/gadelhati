@@ -31,6 +31,14 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 
 ---
 
+<center>
+	<div align="center">
+		<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelhati&layout=compact&theme=radical&hide_border=true&background=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+	</div>
+</center>
+
+---
+
 ## 💼 Por que me contratar?
 - **Experiência real:** Desde APIs seguras até sistemas científicos seguindo padrões internacionais (como o **S-100 da IHO**).  
 - **Foco em resultado:** Mais do que código, eu entrego **soluções que agregam valor ao negócio**.  
