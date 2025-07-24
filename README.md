@@ -1,6 +1,6 @@
-<center align="center">
-	<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-</center>
+<p align="center">
+	<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+</p>
 
 # Eu sou o Marcelo Gadelha
 
