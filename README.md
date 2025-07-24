@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+	<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 </p>
 
 # Eu sou o Marcelo Gadelha
