@@ -33,7 +33,7 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 
 <center>
 	<div align="center">
-		<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelhati&layout=compact&theme=radical&hide_border=true&background=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+		<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadelhati&layout=compact&theme=radical&hide_border=true&background=808080&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
 	</div>
 </center>
 
