@@ -1,8 +1,8 @@
-<center>
+<center align="center">
 	<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </center>
 
-# 👋 Olá, eu sou o Marcelo Gadelha
+# Eu sou o Marcelo Gadelha
 
 > **Desenvolvedor Full-Stack | Especialista em Java & Spring Boot | Criador de Soluções Escaláveis**
 
