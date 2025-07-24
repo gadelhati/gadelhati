@@ -1,8 +1,3 @@
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=marcelogadelha&show_icons=true&theme=radical&hide_border=true)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogadelha&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=marcelogadelha&theme=radical&hide_border=true)
-
 # 👋 Olá, eu sou o Marcelo Gadelha
 
 > **Desenvolvedor Full-Stack | Especialista em Java & Spring Boot | Criador de Soluções Escaláveis**
