@@ -15,8 +15,8 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 
 <div align="center">
 	
-[![skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,react,typescript,ionic,vite,html,css&theme=dark)](https://skillicons.dev)
-[![Infra](https://skillicons.dev/icons?i=linux,apache,docker,git,github,vscode,idea,npm&theme=dark)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,react,typescript,vite,html,css&theme=dark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,idea,npm&theme=dark)](https://skillicons.dev)
 
 </div>
 
