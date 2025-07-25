@@ -14,19 +14,8 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-
-### **Back-end**
-[![Back-end](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres&theme=dark)](https://skillicons.dev)
-
-### **Front-end**
-[![Front-end](https://skillicons.dev/icons?i=react,typescript,ionic,vite,html,css&theme=dark)](https://skillicons.dev)
-
-### **Infra & DevOps**
-[![Infra](https://skillicons.dev/icons?i=linux,apache,docker,git,github&theme=dark)](https://skillicons.dev)
-
-### **Ferramentas**
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,npm&theme=dark)](https://skillicons.dev)
-
+[![skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,postgres,react,typescript,ionic,vite,html,css&theme=dark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,apache,docker,git,github,vscode,idea,npm&theme=dark)](https://skillicons.dev)
 </div>
 
 ---
