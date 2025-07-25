@@ -13,7 +13,7 @@ Com experiência em projetos **complexos e de alta responsabilidade**, construo 
 
 ## 🚀 Tecnologias e Ferramentas
 
-https://skillicons.dev/icons?i=linux,postgres,python,fastapi,java,spring,nodejs,vscode,npm,vite,react,typscript&theme=dark
+![skills](https://skillicons.dev/icons?i=linux,postgres,python,fastapi,java,spring,nodejs,vscode,npm,vite,react,typscript&theme=dark)
 
 ![Linux](https://img.shields.io/badge/Linux-6.10.5-FCC624?logo=linux)
 ![Apache](https://img.shields.io/badge/Apache-2.4.62-D22128?logo=apache)
