@@ -42,7 +42,7 @@ Confira alguns dos meus projetos:
 - **Infraestrutura web segura**  
   Configuração de servidores **Oracle Linux** com **SSL, ModSecurity, Fail2Ban** e práticas avançadas de hardening.  
 
-> Veja mais no meu portfólio completo: **[portifolio-sigma-navy.vercel.app](https://portifolio-sigma-navy.vercel.app/)**
+> Veja mais no meu portfólio completo: **[https://gadelhati.lovable.app/](https://gadelhati.lovable.app/)**
 
 ---
 
@@ -50,7 +50,7 @@ Confira alguns dos meus projetos:
 Estou aberto para **oportunidades de desenvolvimento**, **freelancer** e **parcerias estratégicas**.
 
 **LinkedIn:** [linkedin.com/in/marcelogadelha](https://www.linkedin.com/in/marcelogadelha/)  
-**Portfólio:** [portifolio-sigma-navy.vercel.app](https://portifolio-sigma-navy.vercel.app/)  
+**Portfólio:** [https://gadelhati.lovable.app/](https://gadelhati.lovable.app/)  
 
 ---
 
